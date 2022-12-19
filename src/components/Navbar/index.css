@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.nav-card-container {
+  display: flex;
+  justify-content: space-between;
+  height: 20px;
+  align-items: center;
+  padding: 20px 10px;
+}
+.header-list {
+  display: flex;
+  list-style: none;
+}
+li {
+  margin-left: 10px;
+}
+.nav-logo-image {
+  width: 50px;
+}
+.link-item {
+  text-decoration: none;
+  color: #101010;
+  font-weight: bold;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
